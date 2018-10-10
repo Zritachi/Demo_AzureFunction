@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "CosmosDBConnectionString": "AccountEndpoint=https://dung-cosmos-db.documents.azure.com:443/;AccountKey=CxOLmOLIfFrdDAx1T7V4m7G1h7JemEjuvqBgh6Gsat7Jdbk5FeIiFTIt3AEicnbfwVTqwJkwdPjEouS7nZTwXw==;",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=dungstorage;AccountKey=yLQhxwH5QQ57k5xH3/sbfFFb1B5SCTKcnVJw6I7yLqvJJDwLDL9QM6FyZPgoY9rHHia9TvRQII/WBG4wyW8chg==;BlobEndpoint=https://dungstorage.blob.core.windows.net/;TableEndpoint=https://dungstorage.table.core.windows.net/;QueueEndpoint=https://dungstorage.queue.core.windows.net/;FileEndpoint=https://dungstorage.file.core.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
