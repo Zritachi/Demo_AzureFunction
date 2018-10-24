@@ -1,7 +1,7 @@
 {
     "IsEncrypted": false,
   "Values": {
-    "CosmosDBConnectionString": "AccountEndpoint=https://dung-cosmos-db.documents.azure.com:443/;AccountKey=CxOLmOLIfFrdDAx1T7V4m7G1h7JemEjuvqBgh6Gsat7Jdbk5FeIiFTIt3AEicnbfwVTqwJkwdPjEouS7nZTwXw==;",
+    "CosmosDBConnectionString": "AccountEndpoint=https://group3-triggers-inoutbindings.documents.azure.com:443/;AccountKey=IGcbyynXHiAKPsBcRmdp5X4am8gdhYaQAN7jhXHHSa2huyrpJSdi2aaKcoDAdOFWS5wTXXMEoZ3SOZ7M6llHIw==;",
     "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=dungstorage;AccountKey=yLQhxwH5QQ57k5xH3/sbfFFb1B5SCTKcnVJw6I7yLqvJJDwLDL9QM6FyZPgoY9rHHia9TvRQII/WBG4wyW8chg==;BlobEndpoint=https://dungstorage.blob.core.windows.net/;TableEndpoint=https://dungstorage.table.core.windows.net/;QueueEndpoint=https://dungstorage.queue.core.windows.net/;FileEndpoint=https://dungstorage.file.core.windows.net/",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet"
   }
