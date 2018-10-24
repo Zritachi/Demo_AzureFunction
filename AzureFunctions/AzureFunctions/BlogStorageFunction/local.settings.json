@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "DungStorageAccount": "DefaultEndpointsProtocol=https;AccountName=dungstorage;AccountKey=yLQhxwH5QQ57k5xH3/sbfFFb1B5SCTKcnVJw6I7yLqvJJDwLDL9QM6FyZPgoY9rHHia9TvRQII/WBG4wyW8chg==;EndpointSuffix=core.windows.net",
+    "HieuStorageAccount": "DefaultEndpointsProtocol=https;AccountName=hieuidlstorage;AccountKey=ShnMZS6bOlvw4uuPAgjjroDeJ4IzwhMUf7kqyT4obcaxueHdBPpK7vx8lR9u4CKb9j3o297hIFDFZbLEfR06FA==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=hieuidlstorage;AccountKey=ShnMZS6bOlvw4uuPAgjjroDeJ4IzwhMUf7kqyT4obcaxueHdBPpK7vx8lR9u4CKb9j3o297hIFDFZbLEfR06FA==;BlobEndpoint=https://hieuidlstorage.blob.core.windows.net/;TableEndpoint=https://hieuidlstorage.table.core.windows.net/;QueueEndpoint=https://hieuidlstorage.queue.core.windows.net/;FileEndpoint=https://hieuidlstorage.file.core.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
